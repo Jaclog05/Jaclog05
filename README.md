@@ -2,7 +2,7 @@
 
 **Quien soy?**
 
-*Mi nombre es Jaider Cueto. Tengo 23 años y soy Desarrollador Full Stack*
+*Mi nombre es Jaider Cueto. Tengo 24 años y soy Desarrollador Full Stack*
 
 **¿Que hago?**
 
