@@ -20,8 +20,9 @@
 - PostgreSQL
 - Sequelize
 
-**Siéntete libre de contactarme:
+**Siéntete libre de contactarme:**
 
 Email: jaidercueto.1010@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/jaider-cueto-logreira/
 
